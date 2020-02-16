@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoURI": "mongodb+srv://admin:nimda@cluster0-4knqb.mongodb.net/app?retryWrites=true&w=majority",
+  "JWTSecret": "vlad eliseev mern",
+  "baseUrl": "http://localhost:5000"
+}
